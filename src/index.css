@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .product__detail__features__table {
+        @apply rounded-xl border-separate border-spacing-x-0 border-spacing-y-0.5;
+        & tr{
+            @apply bg-gray-100 h-8 font-semibold text-xs hover:bg-gray-50;
+            &:nth-child(2n){
+                @apply bg-white hover:bg-gray-50;
+            }
+            & td{
+                @apply px-2 border;
+                &:first-child{
+                    @apply rounded-tl-xl rounded-bl-xl;
+                }
+                &:last-child{
+                    @apply font-normal rounded-tr-xl rounded-br-xl border-l-0;
+                }
+            }
+        }
+    }
+  }

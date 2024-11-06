@@ -1,0 +1,270 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Mechanical Gaming Keyboard",
+        "brand": "Corsair",
+        "category": "Keyboard",
+        "price": 99.99,
+        "in_stock": true,
+        "features": {
+          "switch_type": "Cherry MX Red",
+          "rgb_lighting": true,
+          "connectivity": "Wired",
+          "key_rollover": "Full"
+        },
+        "rating": 4.8,
+        "image_url": "https://img.freepik.com/vector-premium/raton-computadora-fondo-oscuro_912214-134340.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Wireless Gaming Mouse",
+        "brand": "Logitech",
+        "category": "Mouse",
+        "price": 79.99,
+        "in_stock": false,
+        "features": {
+          "sensor": "Hero 25K",
+          "dpi": 25600,
+          "connectivity": "Wireless",
+          "buttons": 11,
+          "battery_life": "70 hours"
+        },
+        "rating": 4.6,
+        "image_url": "https://img.freepik.com/fotos-premium/gaming-mouse-negro-rgb-sobre-fondo-negro-ia-generativa_849906-5404.jpg"
+      },
+      {
+        "id": 3,
+        "name": "7.1 Surround Gaming Headset",
+        "brand": "SteelSeries",
+        "category": "Headset",
+        "price": 119.99,
+        "in_stock": true,
+        "features": {
+          "microphone": "Retractable",
+          "surround_sound": "7.1",
+          "connectivity": "Wired",
+          "rgb_lighting": true,
+          "compatibility": "PC, PS5, Xbox"
+        },
+        "rating": 4.7,
+        "image_url": "https://img.freepik.com/fotos-premium/auriculares-luz-neon-representacion-3d-fondo-oscuro_890887-9616.jpg"
+      },
+      {
+        "id": 4,
+        "name": "27-inch Curved Gaming Monitor",
+        "brand": "Samsung",
+        "category": "Monitor",
+        "price": 329.99,
+        "in_stock": true,
+        "features": {
+          "resolution": "2560x1440",
+          "refresh_rate": "144Hz",
+          "panel_type": "VA",
+          "curvature": "1500R",
+          "response_time": "1ms"
+        },
+        "rating": 4.9,
+        "image_url": "https://img.freepik.com/foto-gratis/vista-pantalla-monitor-computadora_23-2150757321.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Gaming Chair with Lumbar Support",
+        "brand": "Secretlab",
+        "category": "Chair",
+        "price": 429.99,
+        "in_stock": true,
+        "features": {
+          "material": "PU Leather",
+          "adjustable_armrests": true,
+          "reclining_angle": "165 degrees",
+          "lumbar_support": true
+        },
+        "rating": 4.8,
+        "image_url": "https://img.freepik.com/premium-photo/blue-yellow-chair-with-gold-bow-tie-it_924589-87026.jpg?w=1380"
+      },
+      {
+        "id": 6,
+        "name": "Gaming Controller",
+        "brand": "Xbox",
+        "category": "Controller",
+        "price": 59.99,
+        "in_stock": true,
+        "features": {
+          "connectivity": "Wireless",
+          "vibration": true,
+          "buttons": 14,
+          "compatibility": "PC, Xbox Series X"
+        },
+        "rating": 4.5,
+        "image_url": "https://img.freepik.com/premium-photo/modern-video-game-controller-dark-background_134032-25074.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Mechanical Gaming Keyboard TKL",
+        "brand": "Razer",
+        "category": "Keyboard",
+        "price": 109.99,
+        "in_stock": true,
+        "features": {
+          "switch_type": "Razer Green",
+          "rgb_lighting": true,
+          "connectivity": "Wired",
+          "key_rollover": "Full"
+        },
+        "rating": 4.9,
+        "image_url": "https://img.freepik.com/premium-photo/keyboard-with-multicolored-keys-multicolored-keyboard_987764-212324.jpg?w=826"
+      },
+      {
+        "id": 8,
+        "name": "Ultra-light Gaming Mouse",
+        "brand": "Glorious",
+        "category": "Mouse",
+        "price": 49.99,
+        "in_stock": true,
+        "features": {
+          "sensor": "Pixart 3360",
+          "dpi": 12000,
+          "connectivity": "Wired",
+          "buttons": 6,
+          "weight": "67g"
+        },
+        "rating": 4.7,
+        "image_url": "https://img.freepik.com/premium-photo/futuristic-computer-gaming-mouse_937691-7564.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Wireless Gaming Headset",
+        "brand": "HyperX",
+        "category": "Headset",
+        "price": 149.99,
+        "in_stock": true,
+        "features": {
+          "microphone": "Detachable",
+          "surround_sound": "7.1",
+          "connectivity": "Wireless",
+          "battery_life": "30 hours",
+          "compatibility": "PC, PS5, Xbox"
+        },
+        "rating": 4.6,
+        "image_url": "https://img.freepik.com/premium-photo/gaming-headset-black-background-front-view-with-dark-studio-shot_555090-28868.jpg"
+      },
+      {
+        "id": 10,
+        "name": "32-inch 4K Gaming Monitor",
+        "brand": "LG",
+        "category": "Monitor",
+        "price": 499.99,
+        "in_stock": true,
+        "features": {
+          "resolution": "3840x2160",
+          "refresh_rate": "60Hz",
+          "panel_type": "IPS",
+          "response_time": "5ms",
+          "HDR": true
+        },
+        "rating": 4.7,
+        "image_url": "https://img.freepik.com/free-photo/view-computer-monitor-display_23-2150757434.jpg?t=st=1728437658~exp=1728441258~hmac=f5cc03eba919ca4ab71fe2b7b8255697df0afadfe9946ced169e2a9c6f5436c5&w=1380"
+      },
+      {
+        "id": 11,
+        "name": "Ergonomic Gaming Chair",
+        "brand": "DXRacer",
+        "category": "Chair",
+        "price": 349.99,
+        "in_stock": true,
+        "features": {
+          "material": "Fabric",
+          "adjustable_armrests": true,
+          "reclining_angle": "135 degrees",
+          "lumbar_support": true
+        },
+        "rating": 4.5,
+        "image_url": "https://img.freepik.com/premium-photo/black-office-chair-with-colorful-light-back_924589-87266.jpg?w=1380"
+      },
+      {
+        "id": 12,
+        "name": "Wireless Pro Controller",
+        "brand": "Nintendo",
+        "category": "Controller",
+        "price": 69.99,
+        "in_stock": true,
+        "features": {
+          "connectivity": "Wireless",
+          "vibration": true,
+          "buttons": 12,
+          "compatibility": "Nintendo Switch"
+        },
+        "rating": 4.6,
+        "image_url": "https://img.freepik.com/free-photo/view-3d-video-game-controller_23-2151005769.jpg?t=st=1728438090~exp=1728441690~hmac=4c2e36d63eaae33c74a20e3fbe5d5426ec0c33d1eb3b5e8318d9976a8bab21f2&w=1380"
+      },
+      {
+        "id": 13,
+        "name": "60% Mechanical Gaming Keyboard",
+        "brand": "Ducky",
+        "category": "Keyboard",
+        "price": 89.99,
+        "in_stock": true,
+        "features": {
+          "switch_type": "Cherry MX Blue",
+          "rgb_lighting": true,
+          "connectivity": "Wired",
+          "form_factor": "60%"
+        },
+        "rating": 4.8,
+        "image_url": "https://img.freepik.com/premium-photo/black-keyboard-with-red-black-keys-that-says-key_987764-212581.jpg?w=826"
+      },
+      {
+        "id": 14,
+        "name": "Ambidextrous Gaming Mouse",
+        "brand": "SteelSeries",
+        "category": "Mouse",
+        "price": 59.99,
+        "in_stock": true,
+        "features": {
+          "sensor": "TrueMove3",
+          "dpi": 12000,
+          "connectivity": "Wired",
+          "buttons": 8,
+          "weight": "90g"
+        },
+        "rating": 4.6,
+        "image_url": "https://img.freepik.com/free-photo/bright-computer-equipment-illuminated-dark-office-background-generated-by-artificial-intelligence_24877-80953.jpg?t=st=1728438151~exp=1728441751~hmac=5bc1faef2ee3e5c240a556aeb6a3cb110b197e189084fc5a98364769deb2cc84&w=1380"
+      },
+      {
+        "id": 15,
+        "name": "RGB Wireless Gaming Headset",
+        "brand": "Logitech",
+        "category": "Headset",
+        "price": 199.99,
+        "in_stock": true,
+        "features": {
+          "microphone": "Detachable",
+          "surround_sound": "DTS:X 2.0",
+          "connectivity": "Wireless",
+          "battery_life": "20 hours",
+          "compatibility": "PC, PS5, Xbox"
+        },
+        "rating": 4.7,
+        "image_url": "https://img.freepik.com/premium-photo/headphones_1197721-35631.jpg?w=826"
+      },
+      {
+        "id": 16,
+        "name": "49-inch Super Ultrawide Monitor",
+        "brand": "Samsung",
+        "category": "Monitor",
+        "price": 1299.99,
+        "in_stock": true,
+        "features": {
+          "resolution": "5120x1440",
+          "refresh_rate": "120Hz",
+          "panel_type": "VA",
+          "curvature": "1000R",
+          "response_time": "4ms"
+        },
+        "rating": 4.9,
+        "image_url": "https://img.freepik.com/free-photo/view-computer-monitor-display-with-desk_23-2150757459.jpg?t=st=1728438227~exp=1728441827~hmac=4c47cb59684268b5d4baa5f55b81a907b69b0922eec3d708c64c94fa20f76c7b&w=1380"
+       }
+    ]
+}
+  
